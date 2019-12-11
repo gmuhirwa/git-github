@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the 4th file.
+=======
+The fourst file.
+>>>>>>> firstbranch  Modified
